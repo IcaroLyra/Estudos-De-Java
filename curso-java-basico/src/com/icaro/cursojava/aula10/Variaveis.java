@@ -11,7 +11,6 @@ public class Variaveis {
     System.out.println("Idade = " + idade);
     System.out.println("Nome = " + nome);
     System.out.println("Nome do cachorro = " + nomeDoMeuGato);
-    
 
   }
 }
