@@ -1,18 +1,48 @@
-## Getting Started
+# ☕ Estudos de Java com Visual Studio Code
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem-vindo ao projeto de estudos em Java! Este repositório foi criado para praticar lógica de programação, estruturas condicionais, e outros conceitos da linguagem Java usando o Visual Studio Code.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📁 Estrutura de Pastas
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+A estrutura do projeto é organizada da seguinte forma:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- `src/` → Contém os arquivos-fonte (código Java).
+- `lib/` → Contém bibliotecas externas (dependências).
+- `bin/` → Arquivos `.class` compilados são gerados automaticamente aqui.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> Caso deseje personalizar essa estrutura, edite o arquivo `.vscode/settings.json`.
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## ⚙️ Configuração no VS Code
+
+1. Instale a extensão **Extension Pack for Java** (desenvolvida pela Microsoft).
+2. Abra a pasta do projeto no VS Code.
+3. Compile e execute os arquivos Java diretamente pelo botão "Run" ou usando o terminal.
+
+---
+
+## 📦 Gerenciamento de Dependências
+
+A aba **`JAVA PROJECTS`** (normalmente localizada no lado esquerdo do VS Code) permite gerenciar:
+- Dependências (bibliotecas externas)
+- Estrutura dos pacotes
+- Execução de arquivos Java
+
+Mais detalhes sobre como usar essa funcionalidade podem ser encontrados na [documentação oficial](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+---
+
+## 📝 Objetivo
+
+Este repositório tem como objetivo:
+- Praticar lógica com exercícios básicos
+- Aprender estrutura de controle (`if`, `switch`, `while`, etc.)
+- Desenvolver familiaridade com o ambiente do Visual Studio Code
+
+---
+
+## 🚀 Bons estudos!
+
