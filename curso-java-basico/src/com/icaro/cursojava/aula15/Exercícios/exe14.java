@@ -34,5 +34,6 @@ public class exe14 {
     } else {
       System.out.println("Média inválida. Verifique os valores digitados.");
     }
+  scan.close();
   }
 }
