@@ -35,6 +35,7 @@ public class exe13 {
         System.out.println("Dia inválido");
         break;
     }
+    scan.close();
 
   }
 

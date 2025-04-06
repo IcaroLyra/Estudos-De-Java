@@ -28,6 +28,6 @@ public class exe15 {
     } else {
       System.out.println("Os valores não formam um triângulo válido.");
     }
-    
+    scan.close();
   }
 }
