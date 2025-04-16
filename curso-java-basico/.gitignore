@@ -11,3 +11,6 @@
 # Arquivos do sistema operacional (só por segurança)
 .DS_Store
 Thumbs.db
+
+# Também ignora pasta bin do VS Code
+/bin/
