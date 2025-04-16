@@ -1,0 +1,13 @@
+# Arquivos gerados pela compilação Java
+*.class
+
+# Saída de build do IntelliJ
+/out/
+
+# Configurações da IDE específicas do IntelliJ (opcional, se você não quiser versionar)
+*.iml
+.idea/
+
+# Arquivos do sistema operacional (só por segurança)
+.DS_Store
+Thumbs.db
