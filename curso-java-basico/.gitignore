@@ -1,16 +1,48 @@
-# Arquivos gerados pela compilação Java
+# =========================
+# 🎯 Compilação Java
+# =========================
 *.class
+*.jar
+*.war
+*.ear
 
-# Saída de build do IntelliJ
+# =========================
+# 🛠️ IntelliJ IDEA
+# =========================
+.idea/
+*.iml
 /out/
 
-# Configurações da IDE específicas do IntelliJ (opcional, se você não quiser versionar)
-*.iml
-.idea/
+# =========================
+# 💻 VS Code
+# =========================
+.vscode/
+bin/
 
-# Arquivos do sistema operacional (só por segurança)
+# =========================
+# 🧪 Arquivos de build/maven/gradle (opcional, dependendo do projeto)
+# =========================
+target/
+build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# =========================
+# 🗂️ Arquivos do sistema
+# =========================
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Também ignora pasta bin do VS Code
-/bin/
+# =========================
+# 🔧 Arquivos de log e temporários
+# =========================
+*.log
+*.tmp
+*.swp
+*.swo
+
+# =========================
+# 📦 Dependências (caso use libs externas locais)
+# =========================
+lib/
