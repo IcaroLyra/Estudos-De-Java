@@ -1,19 +1,30 @@
-# ☕ Estudos-De-Java
+# ☕📘 Estudos de Java
 
-Este repositório representa a minha jornada pessoal de aprendizado em **Java**, onde compartilho o que estou estudando, os desafios que enfrento e os projetos em que estou trabalhando.
+> Repositório dedicado ao meu aprendizado prático em **Java**, com foco em fundamentos da linguagem, exercícios e estruturação de projetos.
 
 ---
 
-## 📚 Sobre o Projeto
+## 📑 Sumário
 
-O objetivo deste projeto é organizar e documentar a prática de fundamentos da linguagem Java, incluindo:
+- 🔍 Sobre  
+- 🗂️ Estrutura do Repositório  
+- 📚 Conteúdo de Estudo  
+- ⚙️ Como Configurar e Executar  
+- 🤝 Contribuição  
+- 📄 Licença  
+- 📬 Contato  
 
-- Variáveis e tipos de dados
-- Estruturas condicionais (`if`, `else`, `switch`)
-- Operadores lógicos e aritméticos
-- Estruturas de repetição
-- Exercícios práticos e desafios
+---
 
-> Todo o conteúdo foi desenvolvido no **Visual Studio Code**, utilizando o pacote de extensões oficial para Java.
+## ✨ Sobre
 
+🚀 Neste espaço compartilho tudo que venho estudando em Java:  
+- Prática de lógica  
+- Programação orientada a objetos  
+- Criação de pequenos projetos  
+- Exercícios baseados em aulas e desafios pessoais
 
+---
+
+## 🗂️ Estrutura do Repositório
+📁 Estudos-De-Java/ ├── .idea/ → Configs do IntelliJ IDEA ├── curso-java-basico/ → Módulo principal com os estudos │ ├── .vscode/ → Configurações do VS Code │ └── src/ │ └── com/icaro/cursojava/ │ ├── aula10/…aula30/ → Exercícios separados por aulas │ └── README.md → Instruções específicas do módulo ├── .gitignore ├── LICENSE └── README.md
