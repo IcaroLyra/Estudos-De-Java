@@ -1,48 +1,44 @@
-# ☕ Estudos de Java com Visual Studio Code
-
-Bem-vindo ao projeto de estudos em Java! Este repositório foi criado para praticar lógica de programação, estruturas condicionais, e outros conceitos da linguagem Java usando o Visual Studio Code.
 
 ---
 
-## 📁 Estrutura de Pastas
+## 📚 Conteúdo de Estudo
 
-A estrutura do projeto é organizada da seguinte forma:
+💡 A cada aula, novos conceitos e exercícios:
 
-- `src/` → Contém os arquivos-fonte (código Java).
-- `lib/` → Contém bibliotecas externas (dependências).
-- `bin/` → Arquivos `.class` compilados são gerados automaticamente aqui.
+- 🧠 Aula 10: Variáveis e atribuição  
+- 🔢 Aula 11: Tipos primitivos (int, boolean, char…)  
+- 🔄 Aulas 12–30:  
+  - Controle de fluxo (if, else, switch)  
+  - Laços (for, while, do-while)  
+  - Arrays  
+  - Métodos e funções  
+  - Programação orientada a objetos  
+  - Tratamento de exceções  
+  - E muito mais...
 
-> Caso deseje personalizar essa estrutura, edite o arquivo `.vscode/settings.json`.
-
----
-
-## ⚙️ Configuração no VS Code
-
-1. Instale a extensão **Extension Pack for Java** (desenvolvida pela Microsoft).
-2. Abra a pasta do projeto no VS Code.
-3. Compile e execute os arquivos Java diretamente pelo botão "Run" ou usando o terminal.
-
----
-
-## 📦 Gerenciamento de Dependências
-
-A aba **`JAVA PROJECTS`** (normalmente localizada no lado esquerdo do VS Code) permite gerenciar:
-- Dependências (bibliotecas externas)
-- Estrutura dos pacotes
-- Execução de arquivos Java
-
-Mais detalhes sobre como usar essa funcionalidade podem ser encontrados na [documentação oficial](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+> 📁 Navegue pela pasta `curso-java-basico/src/com/icaro/cursojava/` para acessar os exercícios por aula.
 
 ---
 
-## 📝 Objetivo
+## ⚙️ Como Configurar e Executar
 
-Este repositório tem como objetivo:
-- Praticar lógica com exercícios básicos
-- Aprender estrutura de controle (`if`, `switch`, `while`, etc.)
-- Desenvolver familiaridade com o ambiente do Visual Studio Code
+🔧 **Pré-requisitos**  
+- Java JDK 11 ou superior  
+- Visual Studio Code ou IntelliJ IDEA  
+- Extensão Java instalada (no VS Code, por exemplo)  
 
----
+💻 **Passos para rodar o projeto:**
 
-## 🚀 Bons estudos!
+```bash
+# 1. Clone o repositório
+git clone nome-do-repo.git
 
+# 2. Acesse a pasta principal
+cd Estudos-De-Java/curso-java-basico
+
+# 3. Abra no VS Code
+code .
+
+# 4. Compile e execute um exercício manualmente
+javac -d bin src/com/icaro/cursojava/aula10/Variaveis.java
+java -cp bin com.icaro.cursojava.aula10.Variaveis
