@@ -1,4 +1,4 @@
-package com.icaro.cursojava.aula33.Exercícios;
+package com.icaro.cursojava.aula33.Exercicios;
 
 public class TesteContaCorrente {
     public static void main(String[] args) {
