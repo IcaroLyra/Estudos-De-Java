@@ -1,4 +1,6 @@
+/*
 package com.icaro.cursojava.aula33;
+
 
 public class TesteCalculadora {
     public static void main(String[] args) {
@@ -8,3 +10,4 @@ public class TesteCalculadora {
         calculadora.soma(1.0, 2.0);
     }
 }
+*/
